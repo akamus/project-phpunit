@@ -109,7 +109,7 @@ class Rgx {
 
 }
 
-$rg = new Rgx('modelofcc.html');
+$rg = new Rgx('modeloprf.html');
 
 echo $rg->assunto(1,12);
 $rg->run();
@@ -130,7 +130,7 @@ do {
      if(!empty($disciplina)){
           echo $disciplina .'-' .$ttQuestoesDisciplina."<br/>";
      }else{
-         echo "--------------fim disciplina--------------------<br/>";
+         echo "----fim d:".$iD."------<br/>";
      }
      $iA = 0;
       do {
@@ -141,7 +141,7 @@ do {
                if(!empty($assunto)){
                echo $assunto . '-'.$questoes."<br/>";
                }else{
-                    echo "-----------------fim assunto:".$iA." Disciplina".$iD."<br/>";
+                    echo "---fim assunto:".$iA." D".$iD."------<br/>";
                } 
             } while (!empty($assunto));
             
