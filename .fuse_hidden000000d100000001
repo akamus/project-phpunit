@@ -24,12 +24,7 @@ class Rgx {
         );
 
         $context = stream_context_create($options);
-
-
         $this->file = file_get_contents($url, false, $context);
-
-
-
 
         $this->dom = new DOMDocument();
         $this->dom->loadHTML($this->file);
@@ -53,14 +48,15 @@ class Rgx {
     }
 
     function disciplina($iD) {
-
-        return $this->xpath->query("/html/body/div[2]/main/div/div[2]/div/div[2]/div[{$iD}]/div/div[1]/h3")->item(0)->nodeValue;
+  return $this->xpath->query("/html/body/div[3]/main/div/div[2]/div/div[2]/div[3]/div/div[1]/h3")->item(0)->nodeValue;
+      
+        
     }
 
     function questoesPorDisciplina($iD) {
         return $this->xpath->query("/html/body/div[2]/main/div/div[2]/div/div[2]/div[{$iD}]/div/div[1]/a[1]")->item(0)->nodeValue;
-        ;
-//                                    /html/body/div[2]/main/div/div[2]/div/div[2]/div[2]/div/div[1]/a[1]
+      
+                             
     }
 
     function assunto($iD,$iA) {
@@ -86,42 +82,22 @@ class Rgx {
         // $this->disciplina(0);
     }
 
-    function item($query) {
-        return $this->xpath->evaluate($query);
-    }
-    
-    function percorrerAssunto($iD,$iA) {
-            
-     do {
-                $iA++;
-                $assunto = $rg->assunto($iD, $iA);
-                $questoes = $rg->questoesPorAssunto($iD,$iA);
-               
-               if(!empty($assunto)){
-               echo $assunto . '-'.$questoes."<br/>";
-               }else{
-                    echo "----------------------------------<br/>";
-               } 
-            } while (!empty($assunto));
-            
-
-    }
 
 }
 
 $rg = new Rgx('modelofcc.html');
 
-echo $rg->assunto(1,12);
 $rg->run();
 
-
 $iD = 0;
-$iA = 0;
+$idA = 0;
 
 $disciplina = '';
 $ttQuestoesDisciplina = 0;
 $assunto = '';
+//
 
+echo $rg->disciplina(1);
 
 do {
     $iD++;
@@ -130,20 +106,20 @@ do {
      if(!empty($disciplina)){
           echo $disciplina .'-' .$ttQuestoesDisciplina."<br/>";
      }else{
-         echo "--------------fim disciplina--------------------<br/>";
+         echo "----------------------------------<br/>";
      }
-     $iA = 0;
-      do {
-                $iA++;
-                $assunto = $rg->assunto($iD, $iA);
-                $questoes = $rg->questoesPorAssunto($iD,$iA);
-               
-               if(!empty($assunto)){
-               echo $assunto . '-'.$questoes."<br/>";
-               }else{
-                    echo "-----------------fim assunto:".$iA." Disciplina".$iD."<br/>";
-               } 
-            } while (!empty($assunto));
-            
-     
+    //
+//     do {
+//                $iA++;
+//                $assunto = $rg->assunto($iD,$iA);
+//               $questoes = $rg->questoesPorAssunto($iD,$iA);
+//               
+//               if(!empty($assunto)){
+//               echo $assunto . '-'.$questoes."<br/>";
+//               }else{
+//                    echo "----------------------------------<br/>";
+//               } 
+//            } while (!empty($assunto));
+//            
+////
 } while (!empty($disciplina));
