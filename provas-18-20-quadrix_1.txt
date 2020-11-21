@@ -1,0 +1,255 @@
+Prova Quadrix - 2019 - CREA-TO - Analista de Sistemas
+Aplicada em 19/12/19
+Todas as 120 questões da prova
+ 
+   1. Português 10 questões         1.1 Ortografia  1 questão    1.2 Pontuação  1 questão    1.3 Uso da Vírgula  1 questão    1.4 Interpretação de Textos  5 questões    1.5 Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos.  2 questões    1.6 Coesão e coerência  3 questões    1.7 Redação - Reescritura de texto  2 questões    1.8 Crase  1 questão    1.9 Sintaxe  3 questões    1.10 Análise sintática  1 questão    1.11 Regência  1 questão    1.12 Concordância verbal, Concordância nominal  1 questão    1.13 Noções Gerais de Compreensão e Interpretação de Texto  3 questões    1.14 Acentuação Gráfica: Proparoxítonas, Paraxítonas, Oxítonas e Hiatos  1 questão     
+ 
+   2. Redação Oficial 2 questões        
+ 
+   3. Inglês 8 questões         3.1 Interpretação de texto | Reading comprehension  5 questões    3.2 Vocabulário | Vocabulary  4 questões    3.3 Sinônimos | Synonyms   5 questões     
+ 
+   4. Raciocínio Lógico 5 questões         4.1 Fundamentos de Lógica  1 questão    4.2 Proposições Simples e Compostas e Operadores Lógicos  1 questão    4.3 Análise Combinatória em Raciocínio Lógico  1 questão    4.4 Probabilidade  2 questões     
+ 
+   5. Matemática 3 questões         5.1 Aritmética e Problemas  3 questões    5.2 Sistema de Unidade de Medidas  1 questão    5.3 Regra de Três  2 questões    5.4 Porcentagem  1 questão     
+ 
+   6. Direito Administrativo 17 questões         6.1 Atos administrativos  1 questão    6.2 Processo Administrativo - Lei 9.784/99  9 questões    6.3 Teoria das nulidades  1 questão    6.4 Improbidade administrativa - Lei 8.429/92  7 questões    6.5 Existência, Validade e Eficácia do Ato Administrativo  1 questão    6.6 Início e interessados no processo administrativo, delegação e avocação de competências  5 questões    6.7 Demais aspectos da lei 9.784/99  2 questões    6.8 Disposições gerais da Improbidade Administrativa  2 questões    6.9 Atos de Improbidade Administrativa e suas Sanções  4 questões    6.10 Demais disposições da Lei 8.429/92  1 questão    6.11 Recursos Administrativos no Processo Administrativo  1 questão     
+ 
+   7. Legislação Federal 13 questões         7.1 Lei 5.194 de 1966 - Profissões de Engenheiro, Arquiteto e Engenheiro Agrônomo e Conselho Federal de Engenharia, Arquitetura e Agronomia - CONFEA  1 questão    7.2 Lei 5.194 de 1966 - Regulamentação do exercício das profissões de Engenheiro, Arquiteto e Engenheiro-Agrônomo  1 questão    7.3 Lei nº 12.527 de 2011 - Lei de Acesso à Informação e Decreto nº 7.724 de 2012  6 questões    7.4 Lei n° 6.496 de 1977   1 questão    7.5 Resoluções nº 1.004 de 2003 e nº 1.008 de 2004 - CONFEA  4 questões    7.6 Lei nº 6.838 de 1980 - Prazo Prescricional para a Punibilidade de Profissional Liberal, por Falta Sujeita a Processo Disciplinar, a ser Aplicada por Órgão Competente  1 questão     
+ 
+   8. Engenharia Agronômica (Agronomia) 7 questões         8.1 Direito Agrário e Legislação  7 questões     
+ 
+   9. Engenharia Civil 2 questões         9.1 Normas e Legislações  2 questões     
+ 
+   10. Arquitetura de Computadores 15 questões         10.1 Conceitos Básicos em Arquitetura de Computadores  1 questão    10.2 Barramento  2 questões    10.3 HD  2 questões    10.4 Memória  1 questão    10.5 Arquitetura de processadores: RISC, CISC, WISC e Microprocessadores.  1 questão    10.6 Processadores  2 questões    10.7 Registradores  1 questão    10.8 Armazenamento de Dados em Arquitetura de Computadores  2 questões    10.9 Placa-mãe  1 questão    10.10 Interrupções e dispositivos de entrada e saída  2 questões     
+ 
+   11. Redes de Computadores 15 questões         11.1 Topologias  2 questões    11.2 Equipamentos de Redes  3 questões    11.3 Cabeamento  2 questões    11.4 DNS (Domain Name System)  1 questão    11.5 Serviços  1 questão    11.6 Protocolo  3 questões    11.7 Switches  1 questão    11.8 Roteadores  1 questão    11.9 Modelo OSI  2 questões    11.10 Proxy  1 questão    11.11 ICMP ( Internet Control Message Protocol)  1 questão    11.12 FTP (File Transfer Protocol)  1 questão    11.13 IP (Internet Protocol)  1 questão    11.14 UDP (User Datagram Protocol)  1 questão    11.15 Acesso Remoto - VPN (Virtual Private Network), Software para Acesso Remoto e Team Viwer  1 questão    11.16 TCP (Transmission Control Protocol)  1 questão     
+ 
+   12. Sistemas Operacionais 5 questões         12.1 Gerência de Memória  2 questões    12.2 Sistemas de arquivos  1 questão    12.3 Linux  1 questão    12.4 Sistemas Operacionais  1 questão     
+ 
+   13. Governança de TI 3 questões         13.1 ITIL  2 questões    13.2 ISO-IEC 12207  1 questão    13.3 ITIL v. 3  2 questões     
+ 
+   14. Engenharia de Software 2 questões         14.1 UML  2 questões    14.2 Diagrama de Componentes  1 questão     
+ 
+   15. Programação 5 questões         15.1 Conceitos básicos de programação  3 questões    15.2 Linguagens de programação  1 questão    15.3 Python  1 questão    15.4 Programação Orientada a Objetos  1 questão     
+ 
+   16. Banco de Dados 5 questões         16.1 DER - Diagrama de Entidade e Relacionamento  1 questão    16.2 Banco de Dados  3 questões    16.3 SQL  1 questão     
+ 
+   17. Não definido 1 questão        
+ 
+-------------------------------------------------------------------------------
+Prova Quadrix - 2019 - Prefeitura de Jataí - GO - Analista de Tecnologia da Informação
+Aplicada em 14/12/19
+Todas as 100 questões da prova
+ 
+   1. Português 15 questões         1.1 Ortografia  1 questão    1.2 Morfologia  1 questão    1.3 Substantivos  1 questão    1.4 Pontuação  1 questão    1.5 Uso da Vírgula  1 questão    1.6 Interpretação de Textos  6 questões    1.7 Tipologia Textual e Tipos de Discurso: direto, indireto e indireto livre.  1 questão    1.8 Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos.  1 questão    1.9 Coesão e coerência  2 questões    1.10 Redação - Reescritura de texto  1 questão    1.11 Crase  1 questão    1.12 Sintaxe  3 questões    1.13 Regência  1 questão    1.14 Concordância verbal, Concordância nominal  1 questão    1.15 Morfologia - Pronomes  1 questão    1.16 Morfologia - Verbos  1 questão    1.17 Colocação Pronominal  1 questão    1.18 Flexão verbal de tempo (presente, pretérito, futuro)  1 questão    1.19 Flexão verbal de modo (indicativo, subjuntivo, imperativo)  1 questão    1.20 Uso dos conectivos  1 questão    1.21 Noções Gerais de Compreensão e Interpretação de Texto  2 questões    1.22 Acentuação Gráfica: Proparoxítonas, Paraxítonas, Oxítonas e Hiatos  1 questão     
+ 
+   2. Noções de Informática 17 questões         2.1 Internet  1 questão    2.2 Correio Eletrônico (cliente de e-mail e webmail)  1 questão    2.3 Sítios de busca e pesquisa na Internet   1 questão    2.4 Sistema Operacional  6 questões    2.5 Redes de Computadores  1 questão    2.6 Segurança da Informação  4 questões    2.7 Planilhas Eletrônicas - Microsoft Excel e BrOffice.org Calc  2 questões    2.8 Windows  1 questão    2.9 Windows Explorer - conceitos de organização de pastas e arquivos  1 questão    2.10 Hardware - Dispositivos de Armazenamento, Memórias e Periféricos  1 questão    2.11 Windows 7  1 questão    2.12 Editor de Textos - Microsoft Word e BrOffice.org Writer  1 questão    2.13 Windows 8  3 questões    2.14 Navegadores (Browser)  2 questões    2.15 Mozilla Firefox  1 questão    2.16 Mozilla Thunderbird  1 questão    2.17 Google Chrome  1 questão    2.18 Malware (vírus, worms e pragas virtuais)  1 questão    2.19 Microsoft Excel 2013   1 questão    2.20 Microsoft Excel  1 questão    2.21 Windows 10  1 questão    2.22 Microsoft Word 2016 e 365  1 questão    2.23 Princípios de Segurança, Confidencialidade e Assinatura Digital  2 questões    2.24 Procedimento de Segurança e Back up  1 questão    2.25 Software  1 questão     
+ 
+   3. Legislação Municipal 20 questões         3.1 Legislação do Município de Jataí (Goiás)  20 questões    3.2 Lei Orgânica do Município de Jataí  7 questões    3.3 Lei  nº 1.400 de 1990 - Institui o Regime Jurídico Único dos Servidores Públicos  13 questões     
+ 
+   4. Sistemas Operacionais 5 questões         4.1 Gerência de Memória  1 questão    4.2 Linux  2 questões    4.3 Comandos  1 questão    4.4 Processos  1 questão    4.5 Sistemas Operacionais  1 questão     
+ 
+   5. Arquitetura de Computadores 13 questões         5.1 Sistemas de numeração  1 questão    5.2 Barramento  2 questões    5.3 Hardware  1 questão    5.4 Memória  4 questões    5.5 Sistemas de Arquivos  1 questão    5.6 Processadores  1 questão    5.7 Registradores  1 questão    5.8 Armazenamento de Dados em Arquitetura de Computadores  1 questão    5.9 Placa-mãe  1 questão    5.10 Interrupções e dispositivos de entrada e saída  1 questão    5.11 Manutenção de Computadores  1 questão     
+ 
+   6. Redes de Computadores 8 questões         6.1 Equipamentos de Redes  1 questão    6.2 Cabeamento  1 questão    6.3 Meios físicos de transmissão  1 questão    6.4 Protocolo  2 questões    6.5 Switches  1 questão    6.6 Roteadores  1 questão    6.7 Modelo OSI  1 questão    6.8 RAID (Redundant Array of Independent Disks)  1 questão    6.9 Proxy  1 questão    6.10 FTP (File Transfer Protocol)  1 questão    6.11 Armazenamento de Dados em Redes de Computadores  1 questão    6.12 Bridge  1 questão    6.13 hub  1 questão     
+ 
+   7. Banco de Dados 7 questões         7.1 DER - Diagrama de Entidade e Relacionamento  3 questões    7.2 Banco de Dados  1 questão    7.3 SQL  2 questões    7.4 Banco de Dados Relacionais  1 questão     
+ 
+   8. Algoritmos e Estrutura de Dados 2 questões         8.1 Algoritmos  2 questões    8.2 Conceitos Básicos e Algoritmos  1 questão    8.3 Recursividade  1 questão     
+ 
+   9. Programação 5 questões         9.1 JavaScript  1 questão    9.2 Linguagens de programação  2 questões    9.3 CSS (Cascading Style Sheets)  1 questão    9.4 Python  1 questão    9.5 HTML (HyperText Markup Language)  1 questão    9.6 Linguagens de marcação  1 questão    9.7 Programação Orientada a Objetos  1 questão     
+ 
+   10. Engenharia de Software 6 questões         10.1 Orientação a Objetos  3 questões    10.2 Engenharia de Requisitos  1 questão    10.3 UML  4 questões    10.4 Diagrama de Classes  1 questão    10.5 Diagrama de Colaboração  1 questão    10.6 Diagrama de Atividades  1 questão     
+ 
+   11. Governança de TI 2 questões         11.1 ITIL  2 questões     
+ 
+-------------------------------------------------------------------------------
+Prova Quadrix - 2019 - CRN - 9 - Assistente de Informática
+Aplicada em 26/10/19
+Todas as 120 questões da prova
+ 
+   1. Português 15 questões         1.1 Morfologia  1 questão    1.2 Artigos  1 questão    1.3 Interpretação de Textos  14 questões    1.4 Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos.  1 questão    1.5 Coesão e coerência  8 questões    1.6 Redação - Reescritura de texto  8 questões    1.7 Sintaxe  4 questões    1.8 Regência  2 questões    1.9 Concordância verbal, Concordância nominal  2 questões    1.10 Morfologia - Pronomes  2 questões    1.11 Pronomes demonstrativos  1 questão    1.12 Pronomes relativos  1 questão    1.13 Morfologia - Verbos  1 questão    1.14 Flexão verbal de número (singular, plural)  1 questão    1.15 Uso dos conectivos  1 questão    1.16 Noções Gerais de Compreensão e Interpretação de Texto  10 questões    1.17 Gêneros Textuais  1 questão     
+ 
+   2. Redação Oficial 1 questão         2.1 Manual de Redação da Presidência da República  1 questão     
+ 
+   3. Inglês 10 questões         3.1 Interpretação de texto | Reading comprehension  9 questões    3.2 Vocabulário | Vocabulary  4 questões    3.3 Aspectos linguísticos | Linguistic aspects  2 questões    3.4 Análise sintática | Parsing  1 questão     
+ 
+   4. Matemática 9 questões         4.1 Aritmética e Problemas  9 questões    4.2 Álgebra  3 questões    4.3 Problemas  4 questões    4.4 MMC e MDC  3 questões    4.5 Razão e Proporção; e Números Proporcionais  2 questões    4.6 Sistema de Unidade de Medidas  4 questões     
+ 
+   5. Raciocínio Lógico 5 questões         5.1 Fundamentos de Lógica  4 questões    5.2 Proposições Simples e Compostas e Operadores Lógicos  4 questões    5.3 Equivalência Lógica e Negação de Proposições  3 questões    5.4 Negação - Leis de Morgan (Negativa de uma Proposição Composta)  1 questão    5.5 Equivalências - Proposições Logicamente Equivalentes  2 questões     
+ 
+   6. Direito Administrativo 11 questões         6.1 Processo Administrativo - Lei 9.784/99  10 questões    6.2 Definições gerais, direitos e deveres dos administrados  2 questões    6.3 Improbidade administrativa - Lei 8.429/92  1 questão    6.4 Início e interessados no processo administrativo, delegação e avocação de competências  8 questões    6.5 Atos de Improbidade Administrativa e suas Sanções  1 questão     
+ 
+   7. Legislação Federal 5 questões         7.1 Lei nº 12.527 de 2011 - Lei de Acesso à Informação e Decreto nº 7.724 de 2012  5 questões     
+ 
+   8. Direito Constitucional 14 questões         8.1 Direitos Sociais  4 questões    8.2 Direitos Políticos  4 questões    8.3 Direitos da Nacionalidade   1 questão    8.4 Remédios e Garantias Constitucionais  5 questões    8.5 Teoria da Constituição  1 questão    8.6 Direitos Individuais - Remédios Constitucionais e Garantias Processuais  5 questões    8.7 Classificação das Normas Constitucionais  1 questão    8.8 Teoria dos Direitos Fundamentais  3 questões     
+ 
+   9. Arquitetura de Computadores 5 questões         9.1 Hardware  5 questões    9.2 Memória  3 questões    9.3 Processadores  1 questão     
+ 
+   10. Sistemas Operacionais 10 questões         10.1 Linux  5 questões    10.2 Windows  5 questões    10.3 Windows 7  5 questões     
+ 
+   11. Redes de Computadores 10 questões         11.1 Arquiteturas de Rede  2 questões    11.2 Topologias  1 questão    11.3 Cabeamento  2 questões    11.4 Protocolo  3 questões    11.5 Gerência de Redes  2 questões    11.6 LDAP (Lightweight Directory Access Protocol)  3 questões    11.7 ATM (Asynchronous Transfer Mode)  1 questão    11.8 LAN (Local Area Network)  1 questão    11.9 WAN (Wide Area Network)  1 questão     
+ 
+   12. Programação 15 questões         12.1 PHP  5 questões    12.2 Linguagens de programação  5 questões    12.3 HTML (HyperText Markup Language)  5 questões    12.4 Linguagens de marcação  5 questões    12.5 Programação Orientada a Objetos  5 questões     
+ 
+   13. Banco de Dados 10 questões         13.1 Oracle  3 questões    13.2 SQL  5 questões    13.3 MySQL  2 questões     
+ 
+-------------------------------------------------------------------------------
+Prova Quadrix - 2019 - CREA-GO - Analista - T.I
+Aplicada em 29/09/19
+Todas as 120 questões da prova
+ 
+   1. Português 13 questões         1.1 Ortografia  1 questão    1.2 Pontuação  1 questão    1.3 Uso dos dois-pontos  1 questão    1.4 Travessão  1 questão    1.5 Interpretação de Textos  9 questões    1.6 Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos.  1 questão    1.7 Coesão e coerência  7 questões    1.8 Problemas da língua culta  1 questão    1.9 Sintaxe  2 questões    1.10 Análise sintática  1 questão    1.11 Concordância verbal, Concordância nominal  1 questão    1.12 Morfologia - Pronomes  1 questão    1.13 Morfologia - Verbos  2 questões    1.14 Colocação Pronominal  1 questão    1.15 Flexão verbal de tempo (presente, pretérito, futuro)  1 questão    1.16 Flexão verbal de modo (indicativo, subjuntivo, imperativo)  1 questão    1.17 Flexão de voz (ativa, passiva, reflexiva)  1 questão    1.18 Noções Gerais de Compreensão e Interpretação de Texto  2 questões    1.19 Acentuação Gráfica: Proparoxítonas, Paraxítonas, Oxítonas e Hiatos  1 questão     
+ 
+   2. Redação Oficial 2 questões         2.1 Elementos de Gramática - Sintaxe  2 questões    2.2 Sintaxe - Aspectos Gerais  1 questão    2.3 Concordância Verbal e Nominal  2 questões     
+ 
+   3. Noções de Informática 9 questões         3.1 Sistema Operacional  2 questões    3.2 Redes de Computadores  2 questões    3.3 Segurança da Informação  1 questão    3.4 LibreOffice e BrOffice Writer  2 questões    3.5 Editor de Textos - Microsoft Word e BrOffice.org Writer  2 questões    3.6 Navegadores (Browser)  2 questões    3.7 Mozilla Firefox  2 questões    3.8 Malware (vírus, worms e pragas virtuais)  1 questão    3.9 Windows 10  2 questões     
+ 
+   4. Arquitetura de Computadores 11 questões         4.1 Sistemas de numeração  1 questão    4.2 Arquiteturas  1 questão    4.3 Hardware  2 questões    4.4 Memória  3 questões    4.5 Arquitetura de processadores: RISC, CISC, WISC e Microprocessadores.  1 questão    4.6 Processadores  3 questões    4.7 Placa-mãe  2 questões     
+ 
+   5. Legislação Federal 16 questões         5.1 Lei 5.194 de 1966 - Profissões de Engenheiro, Arquiteto e Engenheiro Agrônomo e Conselho Federal de Engenharia, Arquitetura e Agronomia - CONFEA  5 questões    5.2 Lei 5.194 de 1966 - Regulamentação do exercício das profissões de Engenheiro, Arquiteto e Engenheiro-Agrônomo  5 questões    5.3 Lei n° 6.496 de 1977   5 questões    5.4 Resoluções nº 1.004 de 2003 e nº 1.008 de 2004 - CONFEA  6 questões     
+ 
+   6. Não definido 22 questões        
+ 
+   7. Engenharia Mecânica 1 questão         7.1 Legislação Aplicada à Engenharia  1 questão    7.2 Regulamentos do Confea e Crea  1 questão     
+ 
+   8. Engenharia Agronômica (Agronomia) 1 questão        
+ 
+   9. Administração Geral 5 questões         9.1 Gestão da Qualidade  4 questões    9.2 Processo Decisório  1 questão    9.3 Melhoria Contínua e Qualidade Total  2 questões    9.4 Ciclo PDCA  1 questão    9.5 Conceitos e Métodos do Processo Decisório  1 questão     
+ 
+   10. Redes de Computadores 10 questões         10.1 Arquiteturas de Rede  1 questão    10.2 Topologias  1 questão    10.3 Equipamentos de Redes  1 questão    10.4 Cabeamento  1 questão    10.5 Transmissão de Dados  1 questão    10.6 Modelo OSI  2 questões    10.7 Gerência de Redes  1 questão    10.8 Segurança de Redes  2 questões    10.9 LAN (Local Area Network)  1 questão    10.10 Bridge  1 questão     
+ 
+   11. Sistemas Operacionais 5 questões         11.1 Linux  5 questões    11.2 Comandos  1 questão     
+ 
+   12. Algoritmos e Estrutura de Dados 5 questões         12.1 Estrutura de Dados  5 questões    12.2 Filas  1 questão    12.3 Listas  1 questão    12.4 Matrizes em Estrutura de Dados  1 questão    12.5 Pilhas  1 questão    12.6 Vetores  1 questão    12.7 Árvores  1 questão     
+ 
+   13. Engenharia de Software 5 questões         13.1 Orientação a Objetos  4 questões    13.2 UML  1 questão    13.3 Diagrama de Classes  1 questão     
+ 
+   14. Programação 5 questões         14.1 Linguagens de programação  5 questões    14.2 Python  5 questões     
+ 
+   15. Banco de Dados 10 questões         15.1 DER - Diagrama de Entidade e Relacionamento  5 questões    15.2 SQL  5 questões     
+ 
+-------------------------------------------------------------------------------
+Prova Quadrix - 2019 - FHGV - Técnico em Informática
+Aplicada em 30/06/19
+Todas as 40 questões da prova
+ 
+   1. Português 9 questões         1.1 Ortografia  1 questão    1.2 Morfologia  2 questões    1.3 Substantivos  1 questão    1.4 Adjetivos  1 questão    1.5 Advérbios  1 questão    1.6 Pontuação  1 questão    1.7 Uso da Vírgula  1 questão    1.8 Interpretação de Textos  4 questões    1.9 Coesão e coerência  2 questões    1.10 Redação - Reescritura de texto  2 questões    1.11 Conjunções: Relação de causa e consequência  1 questão    1.12 Sintaxe  2 questões    1.13 Vocativo e Termos Acessórios da Oração: Adjunto Adnominal, Diferença entre Adjunto Adnominal e Complemento Nominal, Adjunto Adverbial e Aposto  1 questão    1.14 Orações subordinadas adverbiais: Causal, Comparativa, Consecutiva, Concessiva, Condicional...  1 questão    1.15 Noções Gerais de Compreensão e Interpretação de Texto  2 questões    1.16 Acentuação Gráfica: Proparoxítonas, Paraxítonas, Oxítonas e Hiatos  1 questão     
+ 
+   2. Redação Oficial 1 questão         2.1 Correio Eletrônico  1 questão    2.2 Tipos de Documentos  1 questão     
+ 
+   3. Direito Sanitário 3 questões         3.1 Aspectos Constitucionais   2 questões    3.2 Competências Constitucionais  2 questões    3.3 Sistema Único de Saúde - SUS  1 questão    3.4 Lei Orgânica da Saúde - Lei n° 8.080/1990  1 questão     
+ 
+   4. Legislação Municipal 6 questões         4.1 Legislação do Município de Sapucaia do Sul (Rio Grande do Sul)  6 questões    4.2 Legislação da Fundação Hospital Municipal Getúlio Vargas  6 questões     
+ 
+   5. Direito Administrativo 1 questão         5.1 Licitações e Lei 8.666 de 1993.  1 questão    5.2 Dispensa de licitação  1 questão    5.3 Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão  1 questão    5.4 Pregão - Lei nº 10.520 de 2002, Decreto nº 3.555 de 2000 e Decreto nº 5.450 de 2005  1 questão    5.5 Sistema de Registro de Preços - Decreto n° 7.892 de 2013  1 questão     
+ 
+   6. Arquitetura de Computadores 2 questões         6.1 Barramento  1 questão    6.2 Memória  1 questão    6.3 Manutenção de Computadores  1 questão     
+ 
+   7. Sistemas Operacionais 4 questões         7.1 Sistemas de arquivos  1 questão    7.2 Linux  2 questões    7.3 Administração de usuários (AD - Active Directory)  1 questão     
+ 
+   8. Engenharia de Software 1 questão         8.1 Orientação a Objetos  1 questão    8.2 Desenvolvimento de Software  1 questão     
+ 
+   9. Redes de Computadores 8 questões         9.1 Equipamentos de Redes  2 questões    9.2 Cabeamento  1 questão    9.3 Redes Windows  1 questão    9.4 Firewall  1 questão    9.5 VLAN  1 questão    9.6 Roteadores  2 questões    9.7 Gerência de Redes  1 questão    9.8 Segurança de Redes  1 questão     
+ 
+   10. Banco de Dados 5 questões         10.1 Modelagem de dados  1 questão    10.2 SQL  1 questão    10.3 PostgreSQL  1 questão    10.4 Banco de Dados Relacionais  1 questão    10.5 MySQL  1 questão     
+ 
+-------------------------------------------------------------------------------
+Prova Quadrix - 2019 - CRA-PR - Analista Sistema I
+Aplicada em 17/02/19
+Todas as 108 questões da prova
+ 
+   1. Português 12 questões         1.1 Interpretação de Textos  9 questões    1.2 Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos.  1 questão    1.3 Coesão e coerência  1 questão    1.4 Redação - Reescritura de texto  1 questão    1.5 Crase  1 questão    1.6 Sintaxe  1 questão    1.7 Análise sintática  1 questão    1.8 Morfologia - Verbos  1 questão    1.9 Formas nominais do verbo (particípio, gerúndio, infinitivo)  1 questão    1.10 Noções Gerais de Compreensão e Interpretação de Texto  6 questões     
+ 
+   2. Inglês 10 questões         2.1 Palavras conectivas | Connective words  1 questão    2.2 Pronomes | Pronouns  2 questões    2.3 Interpretação de texto | Reading comprehension  6 questões    2.4 Pronome relativo | Relative clauses  2 questões    2.5 Verbos | Verbs  1 questão    2.6 Infinitivo e gerúndio | Infinitive and gerund  1 questão     
+ 
+   3. Matemática 6 questões         3.1 Aritmética e Problemas  1 questão    3.2 Álgebra  1 questão    3.3 Funções  1 questão    3.4 Função de 1º Grau ou Função Afim, Problemas com Equação e Inequações  1 questão    3.5 Análise Combinatória em Matemática  1 questão    3.6 Probabilidade  1 questão    3.7 Geometria Espacial  1 questão    3.8 Cone  1 questão    3.9 Radical  1 questão    3.10 Razão e Proporção; e Números Proporcionais  1 questão     
+ 
+   4. Raciocínio Lógico 3 questões         4.1 Fundamentos de Lógica  1 questão    4.2 Tabelas-Verdade, Tautologia, Contradição e Contingência  1 questão    4.3 Lógica de Argumentação - Diagramas e Operadores Lógicos  1 questão    4.4 Diagramas de Venn (Conjuntos)  2 questões     
+ 
+   5. Atualidades 8 questões         5.1 Política Internacional  3 questões    5.2 Política  3 questões    5.3 Política no Brasil  1 questão    5.4 Economia na Atualidade  1 questão    5.5 Economia Internacional na Atualidade  1 questão    5.6 Energia na Atualidade  4 questões    5.7 Atualidades do ano de 2019  8 questões     
+ 
+   6. Ética na Administração Pública 10 questões         6.1 Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal - Decreto nº 1.171 de 1994  10 questões     
+ 
+   7. Regimento Interno 4 questões         7.1 Regimento Interno do Conselho Regional de Administração do Paraná (CRA-PR)  4 questões     
+ 
+   8. Legislação Federal 2 questões         8.1 Lei 4.769 de 1965 - Exercício da profissão de Técnico de Administração - Conselho Federal de Administração e legislação específica  2 questões     
+ 
+   9. Direito Administrativo 4 questões         9.1 Contratos Administrativos  4 questões    9.2 Conceito e Características  1 questão    9.3 Duração, Extinção, Inexecução, Sanções e Responsabilidade  3 questões     
+ 
+   10. Sistemas Operacionais 10 questões         10.1 Gerência do Processador  1 questão    10.2 Gerência de Memória  2 questões    10.3 Linux  5 questões    10.4 Processos  2 questões     
+ 
+   11. Arquitetura de Computadores 15 questões         11.1 Sistemas de numeração  2 questões    11.2 Barramento  3 questões    11.3 Arquiteturas  3 questões    11.4 Memória  5 questões    11.5 Arquitetura de processadores: RISC, CISC, WISC e Microprocessadores.  2 questões    11.6 Interrupções e dispositivos de entrada e saída  1 questão     
+ 
+   12. Redes de Computadores 10 questões         12.1 Arquiteturas de Rede  1 questão    12.2 Equipamentos de Redes  2 questões    12.3 DNS (Domain Name System)  3 questões    12.4 Firewall  1 questão    12.5 Protocolo  2 questões    12.6 Roteadores  1 questão    12.7 Modelo OSI  2 questões    12.8 DHCP (Dynamic Host Configuration Protocol)  2 questões    12.9 LAN (Local Area Network)  1 questão    12.10 Bridge  1 questão     
+ 
+   13. Algoritmos e Estrutura de Dados 5 questões         13.1 Estrutura de Dados  5 questões    13.2 Filas  1 questão    13.3 Matrizes em Estrutura de Dados  1 questão    13.4 Vetores  2 questões    13.5 Árvores  1 questão     
+ 
+   14. Banco de Dados 10 questões         14.1 DER - Diagrama de Entidade e Relacionamento  5 questões    14.2 SQL  5 questões     
+ 
+   15. Programação 5 questões         15.1 Linguagens de programação  4 questões    15.2 Python  4 questões    15.3 Programação Orientada a Objetos  1 questão     
+ 
+   16. Governança de TI 5 questões         16.1 ITIL  5 questões     
+ 
+-------------------------------------------------------------------------------
+Prova Quadrix - 2018 - CRM-PR - Analista de Tecnologia da Informação
+Aplicada em 08/07/18
+Todas as 120 questões da prova
+ 
+   1. Português 18 questões         1.1 Ortografia  1 questão    1.2 Pontuação  1 questão    1.3 Uso da Vírgula  1 questão    1.4 Interpretação de Textos  12 questões    1.5 Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos.  1 questão    1.6 Coesão e coerência  10 questões    1.7 Redação - Reescritura de texto  5 questões    1.8 Sintaxe  4 questões    1.9 Análise sintática  1 questão    1.10 Termos essenciais da oração: Sujeito e Predicado  1 questão    1.11 Concordância verbal, Concordância nominal  2 questões    1.12 Morfologia - Pronomes  1 questão    1.13 Colocação Pronominal  1 questão    1.14 Noções Gerais de Compreensão e Interpretação de Texto  2 questões    1.15 Acentuação Gráfica: acento diferencial   1 questão     
+ 
+   2. Redação Oficial 2 questões         2.1 O Padrão Ofício  2 questões    2.2 Partes do documento no Padrão Ofício  2 questões     
+ 
+   3. Raciocínio Lógico 7 questões         3.1 Fundamentos de Lógica  4 questões    3.2 Proposições Simples e Compostas e Operadores Lógicos  4 questões    3.3 Implicação Lógica  4 questões    3.4 Diagramas de Venn (Conjuntos)  2 questões    3.5 Análise Combinatória em Raciocínio Lógico  1 questão     
+ 
+   4. Matemática 3 questões         4.1 Aritmética e Problemas  3 questões    4.2 Álgebra  1 questão    4.3 Problemas  1 questão    4.4 Regra de Três  3 questões     
+ 
+   5. Regimento Interno 5 questões         5.1 Regimento Interno do CRM/PR  5 questões     
+ 
+   6. Legislação Federal 9 questões         6.1 Lei nº 3.268 de 1957 e Decreto nº 44.045 de 1958 - Dispõe sobre os Conselhos de Medicina  9 questões     
+ 
+   7. Direito Administrativo 6 questões         7.1 Licitações e Lei 8.666 de 1993.  5 questões    7.2 Objeto e Obrigatoriedade da Licitação  1 questão    7.3 Inexigibilidade de licitação  2 questões    7.4 Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão  2 questões    7.5 Contratos Administrativos  1 questão    7.6 Conceito e Características  1 questão     
+ 
+   8. Inglês 10 questões         8.1 Adjetivos | Adjectives  1 questão    8.2 Comparativo e superlativo de adjetivos | Comparative and superlative  1 questão    8.3 Oposto | Opposite  1 questão    8.4 Palavras conectivas | Connective words  1 questão    8.5 Determinantes e quantificadores | Determiners and quantifiers  2 questões    8.6 Substantivos e compostos | Nouns and compounds  1 questão    8.7 Substantivos contáveis e incontáveis | Countable and uncountable  1 questão    8.8 Pronomes | Pronouns  1 questão    8.9 Interpretação de texto | Reading comprehension  5 questões    8.10 Vocabulário | Vocabulary  2 questões    8.11 Sinônimos | Synonyms   3 questões    8.12 Pronome indefinido | Indefinite Pronouns  1 questão     
+ 
+   9. Banco de Dados 15 questões         9.1 Modelagem de dados  6 questões    9.2 DER - Diagrama de Entidade e Relacionamento  1 questão    9.3 Formas normais  5 questões    9.4 SQL  5 questões     
+ 
+   10. Engenharia de Software 25 questões         10.1 Métricas de Software  5 questões    10.2 Qualidade de Software  1 questão    10.3 Orientação a Objetos  5 questões    10.4 Análise de Pontos de Função  5 questões    10.5 Engenharia de Requisitos  2 questões    10.6 Outros modelos de Processo de Software  1 questão    10.7 RUP (Rational Unified Process) - Processo Unificado Rational  5 questões    10.8 Processos de Software  7 questões    10.9 Modelo em cascata  2 questões    10.10 Gestão de Projetos em Engenharia de Software  5 questões     
+ 
+   11. Governança de TI 15 questões         11.1 ITIL  5 questões    11.2 COBIT  5 questões    11.3 CMMI (Capability Maturity Model Integration)  5 questões    11.4 ITIL v. 3  5 questões    11.5 COBIT v. 5.0  5 questões     
+ 
+   12. Redes de Computadores 3 questões         12.1 Arquiteturas de Rede  1 questão    12.2 Cabeamento  1 questão    12.3 Meios físicos de transmissão  1 questão    12.4 Firewall  1 questão    12.5 Gerência de Redes  1 questão    12.6 LAN (Local Area Network)  1 questão     
+ 
+   13. Segurança da Informação 2 questões         13.1 Criptografia  1 questão    13.2 Infra estrutura de Chaves Publicas (PKI)  1 questão    13.3 Assinatura Digital  1 questão     
+ 
+-------------------------------------------------------------------------------
+Prova Quadrix - 2018 - CRM-PR - Analista de Tecnologia da Informação
+Aplicada em 08/07/18
+Todas as 120 questões da prova
+ 
+   1. Português 18 questões         1.1 Ortografia  1 questão    1.2 Pontuação  1 questão    1.3 Uso da Vírgula  1 questão    1.4 Interpretação de Textos  12 questões    1.5 Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos.  1 questão    1.6 Coesão e coerência  10 questões    1.7 Redação - Reescritura de texto  5 questões    1.8 Sintaxe  4 questões    1.9 Análise sintática  1 questão    1.10 Termos essenciais da oração: Sujeito e Predicado  1 questão    1.11 Concordância verbal, Concordância nominal  2 questões    1.12 Morfologia - Pronomes  1 questão    1.13 Colocação Pronominal  1 questão    1.14 Noções Gerais de Compreensão e Interpretação de Texto  2 questões    1.15 Acentuação Gráfica: acento diferencial   1 questão     
+ 
+   2. Redação Oficial 2 questões         2.1 O Padrão Ofício  2 questões    2.2 Partes do documento no Padrão Ofício  2 questões     
+ 
+   3. Raciocínio Lógico 7 questões         3.1 Fundamentos de Lógica  4 questões    3.2 Proposições Simples e Compostas e Operadores Lógicos  4 questões    3.3 Implicação Lógica  4 questões    3.4 Diagramas de Venn (Conjuntos)  2 questões    3.5 Análise Combinatória em Raciocínio Lógico  1 questão     
+ 
+   4. Matemática 3 questões         4.1 Aritmética e Problemas  3 questões    4.2 Álgebra  1 questão    4.3 Problemas  1 questão    4.4 Regra de Três  3 questões     
+ 
+   5. Regimento Interno 5 questões         5.1 Regimento Interno do CRM/PR  5 questões     
+ 
+   6. Legislação Federal 9 questões         6.1 Lei nº 3.268 de 1957 e Decreto nº 44.045 de 1958 - Dispõe sobre os Conselhos de Medicina  9 questões     
+ 
+   7. Direito Administrativo 6 questões         7.1 Licitações e Lei 8.666 de 1993.  5 questões    7.2 Objeto e Obrigatoriedade da Licitação  1 questão    7.3 Inexigibilidade de licitação  2 questões    7.4 Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão  2 questões    7.5 Contratos Administrativos  1 questão    7.6 Conceito e Características  1 questão     
+ 
+   8. Inglês 10 questões         8.1 Adjetivos | Adjectives  1 questão    8.2 Comparativo e superlativo de adjetivos | Comparative and superlative  1 questão    8.3 Oposto | Opposite  1 questão    8.4 Palavras conectivas | Connective words  1 questão    8.5 Determinantes e quantificadores | Determiners and quantifiers  2 questões    8.6 Substantivos e compostos | Nouns and compounds  1 questão    8.7 Substantivos contáveis e incontáveis | Countable and uncountable  1 questão    8.8 Pronomes | Pronouns  1 questão    8.9 Interpretação de texto | Reading comprehension  5 questões    8.10 Vocabulário | Vocabulary  2 questões    8.11 Sinônimos | Synonyms   3 questões    8.12 Pronome indefinido | Indefinite Pronouns  1 questão     
+ 
+   9. Banco de Dados 15 questões         9.1 Modelagem de dados  6 questões    9.2 DER - Diagrama de Entidade e Relacionamento  1 questão    9.3 Formas normais  5 questões    9.4 SQL  5 questões     
+ 
+   10. Engenharia de Software 25 questões         10.1 Métricas de Software  5 questões    10.2 Qualidade de Software  1 questão    10.3 Orientação a Objetos  5 questões    10.4 Análise de Pontos de Função  5 questões    10.5 Engenharia de Requisitos  2 questões    10.6 Outros modelos de Processo de Software  1 questão    10.7 RUP (Rational Unified Process) - Processo Unificado Rational  5 questões    10.8 Processos de Software  7 questões    10.9 Modelo em cascata  2 questões    10.10 Gestão de Projetos em Engenharia de Software  5 questões     
+ 
+   11. Governança de TI 15 questões         11.1 ITIL  5 questões    11.2 COBIT  5 questões    11.3 CMMI (Capability Maturity Model Integration)  5 questões    11.4 ITIL v. 3  5 questões    11.5 COBIT v. 5.0  5 questões     
+ 
+   12. Redes de Computadores 3 questões         12.1 Arquiteturas de Rede  1 questão    12.2 Cabeamento  1 questão    12.3 Meios físicos de transmissão  1 questão    12.4 Firewall  1 questão    12.5 Gerência de Redes  1 questão    12.6 LAN (Local Area Network)  1 questão     
+ 
+   13. Segurança da Informação 2 questões         13.1 Criptografia  1 questão    13.2 Infra estrutura de Chaves Publicas (PKI)  1 questão    13.3 Assinatura Digital  1 questão     
+ 

@@ -1,7 +1,8 @@
 {
     "name": "aureo.ramos/ipremci3",
     "require": {
-        
+        "doctrine/dbal": "^2.11",
+        "opis/database": "^4.2"
     },
     "autoload": {
         "psr-4": {
@@ -19,7 +20,8 @@
         "phpunit/php-code-coverage": "^8.0"
     },
     "scripts": {
-        "server": "php -S localhost:8000 index.php"
+        "server": "php -S localhost:8000 index.php",
+        "test": "./vendor/bin/phpunit tests --colors"
        
     }
 }
