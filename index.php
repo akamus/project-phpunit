@@ -29,9 +29,6 @@ class Rgx {
 
         $this->file = file_get_contents($url, false, $context);
 
-
-
-
         $this->dom = new DOMDocument();
         $this->dom->loadHTML($this->file);
         $this->xpath = new DOMXPath($this->dom);

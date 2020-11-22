@@ -53,22 +53,30 @@ class Rgx {
     }
 
     function disciplina($iD) {
-
         return $this->xpath->query("/html/body/div[2]/main/div/div[2]/div/div[2]/div[{$iD}]/div/div[1]/h3")->item(0)->nodeValue;
+    }
+
+    function urlQuestoesDisciplina($iD) {
+        return $this->xpath->query("/html/body/div[2]/main/div/div[2]/div/div[2]/div[{$iD}]/div/div[1]/a[1]")->item(0)->attributes->item(0)->nodeValue;
+    }
+
+    function urlResolverOnline() {
+        return $this->xpath->query("/html/body/div[2]/main/div/div[2]/div/div[1]/a")->item(0)->attributes->getNamedItem("href")->nodeValue;
     }
 
     function questoesPorDisciplina($iD) {
         return $this->xpath->query("/html/body/div[2]/main/div/div[2]/div/div[2]/div[{$iD}]/div/div[1]/a[1]")->item(0)->nodeValue;
-        ;
-//                                    /html/body/div[2]/main/div/div[2]/div/div[2]/div[2]/div/div[1]/a[1]
     }
 
     function assunto($iD,$iA) {
-             
         return $this->xpath->query("/html/body/div[2]/main/div/div[2]/div/div[2]/div[{$iD}]/div/div[2]/ul/li[{$iA}]/span")->item(0)->nodeValue;
     }
 
-    function questoesPorAssunto($iD,$iA) {
+    function urlQuestoesAssunto($iD, $iA) {
+       // return $this->xpath->query("/html/body/div[2]/main/div/div[2]/div/div[2]/div[{$iD}]/div/div[2]/ul/li[{$iA}]/a")->item(0)->attributes->item(0)->nodeValue;
+    }
+
+    function questoesPorAssunto($iD, $iA) {
         return $this->xpath->query("/html/body/div[2]/main/div/div[2]/div/div[2]/div[{$iD}]/div/div[2]/ul/li[{$iA}]/a")->item(0)->nodeValue;
     }
 
@@ -78,40 +86,43 @@ class Rgx {
 
     function run($novoArquivo = '') {
 
-
-      //  echo $this->prova();
-       // echo $this->dataAplicacao();
-       // echo $this->totalQuestoesProva();
-
-        // $this->disciplina(0);
+        echo $this->prova() . "<br/>";
+        
+        echo $this->dataAplicacao() . "<br/>";
+        
+        echo $this->totalQuestoesProva() . "<br/>";
+        
+        echo $this->urlResolverOnline() . "<br/>";
+        
+// $this->disciplina(0);
     }
 
     function item($query) {
         return $this->xpath->evaluate($query);
     }
-    
-    function percorrerAssunto($iD,$iA) {
-            
-     do {
-                $iA++;
-                $assunto = $rg->assunto($iD, $iA);
-                $questoes = $rg->questoesPorAssunto($iD,$iA);
-               
-               if(!empty($assunto)){
-               echo $assunto . '-'.$questoes."<br/>";
-               }else{
-                    echo "----------------------------------<br/>";
-               } 
-            } while (!empty($assunto));
-            
 
+    function percorrerAssunto($iD, $iA) {
+
+        do {
+            $iA++;
+            $assunto = $rg->assunto($iD, $iA);
+            $questoes = $rg->questoesPorAssunto($iD, $iA);
+
+            if (!empty($assunto)) {
+                echo $assunto . '-' . $questoes . "<br/>";
+            } else {
+                echo "----------------------------------<br/>";
+            }
+        } while (!empty($assunto));
     }
 
 }
 
+/**
+ * Runner 
+ */
 $rg = new Rgx('modeloprf.html');
 
-echo $rg->assunto(1,12);
 $rg->run();
 
 
@@ -119,31 +130,34 @@ $iD = 0;
 $iA = 0;
 
 $disciplina = '';
-$ttQuestoesDisciplina = 0;
+$totalQuestoesDisciplina = 0;
 $assunto = '';
-
 
 do {
     $iD++;
+    //buscar disciplina
     $disciplina = $rg->disciplina($iD);
-    $ttQuestoesDisciplina = $rg->questoesPorDisciplina($iD);
-     if(!empty($disciplina)){
-          echo $disciplina .'-' .$ttQuestoesDisciplina."<br/>";
-     }else{
-         echo "----fim d:".$iD."------<br/>";
-     }
-     $iA = 0;
-      do {
-                $iA++;
-                $assunto = $rg->assunto($iD, $iA);
-                $questoes = $rg->questoesPorAssunto($iD,$iA);
-               
-               if(!empty($assunto)){
-               echo $assunto . '-'.$questoes."<br/>";
-               }else{
-                    echo "---fim assunto:".$iA." D".$iD."------<br/>";
-               } 
-            } while (!empty($assunto));
-            
-     
+    $totalQuestoesDisciplina = $rg->questoesPorDisciplina($iD);
+
+
+
+    if (!empty($disciplina)) {
+        echo $disciplina . '-' . $totalQuestoesDisciplina . '-' .$rg->urlQuestoesDisciplina($iD). "<br/>";
+        
+    } else {
+        echo "----fim d:" . $iD . "------<br/>";
+    }
+    $iA = 0;
+    do {
+        $iA++;
+        $assunto = $rg->assunto($iD, $iA);
+        $questoesPorAssunto = $rg->questoesPorAssunto($iD, $iA);
+        $urlQuestoesAssunto = $rg->urlQuestoesAssunto($iD, $iA);
+        
+        if (!empty($assunto)) {
+            echo $assunto . '-' . $questoesPorAssunto . '-' . $urlQuestoesAssunto . "<br/>";
+        } else {
+            echo "---fim assunto:" . $iA . " D" . $iD . "------<br/>";
+        }
+    } while (!empty($assunto));
 } while (!empty($disciplina));
