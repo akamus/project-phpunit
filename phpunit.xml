@@ -5,15 +5,9 @@
          colors="true"
          verbose="true">
  <testsuites>
-  <testsuite name="Unit">
-    <directory>./tests/unit</directory>
-     
-    <file></file>
-    <exclude></exclude>
-  </testsuite>
+  
 <testsuite name="App">
-    <directory>./tests/app</directory>
-     
+    <directory></directory>    
     <file></file>
     <exclude></exclude>
   </testsuite>
@@ -22,21 +16,20 @@
 
 
 <filter>
-
   <whitelist processUncoveredFilesFromWhitelist="true">
-    <directory suffix=".php">./app/models</directory>  
+    <directory suffix=".php">./src</directory>  
   </whitelist>
   
 </filter>
 
 
-<!--
+
 <logging>   
     <log type="coverage-clover" target="tests/_reports/logs/clover.xml"/>
     <log type="coverage-html" target="tests/_reports/coverage" lowUpperBound="35" highLowerBound="70" />
     <log type="testdox-html" target="tests/_reports/testdox.html"/>
     <log type="testdox-text" target="tests/_reports/testdox/executed.txt"/>
 </logging>
--->
+
   
 </phpunit>

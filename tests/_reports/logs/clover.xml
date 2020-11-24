@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1606134309">
+  <project timestamp="1606134309">
+    <file name="C:\xampp\htdocs\personal\project-qc\src\Rgx.php">
+      <class name="Src\Rgx" namespace="global">
+        <metrics complexity="16" methods="15" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="32" coveredstatements="0" elements="47" coveredelements="0"/>
+      </class>
+      <line num="14" type="method" name="__construct" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="17" type="stmt" count="0"/>
+      <line num="24" type="stmt" count="0"/>
+      <line num="25" type="stmt" count="0"/>
+      <line num="26" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="29" type="stmt" count="0"/>
+      <line num="31" type="method" name="prova" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="35" type="method" name="dataAplicacao" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="39" type="method" name="totalQuestoesProva" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="43" type="method" name="disciplinas" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="44" type="stmt" count="0"/>
+      <line num="47" type="method" name="disciplina" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="48" type="stmt" count="0"/>
+      <line num="51" type="method" name="urlQuestoesDisciplina" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="52" type="stmt" count="0"/>
+      <line num="55" type="method" name="urlResolverOnline" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="56" type="stmt" count="0"/>
+      <line num="59" type="method" name="questoesPorDisciplina" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="60" type="stmt" count="0"/>
+      <line num="63" type="method" name="assunto" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="64" type="stmt" count="0"/>
+      <line num="67" type="method" name="urlQuestoesAssunto" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="68" type="stmt" count="0"/>
+      <line num="71" type="method" name="questoesPorAssunto" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="72" type="stmt" count="0"/>
+      <line num="75" type="method" name="getHtml" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="76" type="stmt" count="0"/>
+      <line num="79" type="method" name="run" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="81" type="stmt" count="0"/>
+      <line num="83" type="stmt" count="0"/>
+      <line num="85" type="stmt" count="0"/>
+      <line num="87" type="stmt" count="0"/>
+      <line num="90" type="stmt" count="0"/>
+      <line num="93" type="method" name="percorrerAssunto" visibility="public" complexity="2" crap="6" count="0"/>
+      <line num="96" type="stmt" count="0"/>
+      <line num="97" type="stmt" count="0"/>
+      <line num="98" type="stmt" count="0"/>
+      <line num="100" type="stmt" count="0"/>
+      <line num="101" type="stmt" count="0"/>
+      <line num="103" type="stmt" count="0"/>
+      <line num="105" type="stmt" count="0"/>
+      <line num="106" type="stmt" count="0"/>
+      <metrics loc="108" ncloc="106" classes="1" methods="15" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="32" coveredstatements="0" elements="47" coveredelements="0"/>
+    </file>
+    <metrics files="1" loc="108" ncloc="106" classes="1" methods="15" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="32" coveredstatements="0" elements="47" coveredelements="0"/>
+  </project>
+</coverage>
