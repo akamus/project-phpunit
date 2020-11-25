@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '78c1612fb813335ec9864b0be8d6f3ffc25c1174',
+    'reference' => '1ea5f446c20e73fe2b11cd0c7400a493be00ff5d',
     'name' => 'aureo.ramos/ipremci3',
   ),
   'versions' => 
@@ -31,7 +31,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '78c1612fb813335ec9864b0be8d6f3ffc25c1174',
+      'reference' => '1ea5f446c20e73fe2b11cd0c7400a493be00ff5d',
     ),
     'opis/database' => 
     array (

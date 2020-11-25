@@ -31,14 +31,14 @@ class ProvaModel {
         if($this->getProva($data)){
             return false;
         }
-        
-        $result = $this->db->insert(array(
+        https://www.qconcursos.com/questoes-de-concursos/provas/cespe-2018-bnb-especialista-tecnico-analista-de-sistema/questoes
+        $result = $this->db->insert([
+                
                 'nome' => $data['nome'],
                 'data' => $data['data'],
                  'quantidade' => $data['quantidade'],
-                'url' => $data['url']
-
-            ))
+                'url' => 'https://www.qconcursos.com'.$data['url']
+            ])
             ->into('prova');
     }
     
@@ -78,14 +78,14 @@ class ProvaModel {
 //            $this->updateAssunto($adata);
 //        }else{
 
-        $result = $this->db->insert(array(
+        $result = $this->db->insert([
                 'prova' => $registro['prova'],
                 'disciplina' => $registro['disciplina'],
                  'assunto' => $registro['assunto'],
                'quantidade' => $registro['quantidade'],
-                'url' => $registro['url']
+                'url' => 'https://www.qconcursos.com'.$registro['url']
 
-            ))
+            ])
             ->into('registro');
        // }
     }
