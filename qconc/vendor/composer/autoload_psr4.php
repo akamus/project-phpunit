@@ -8,8 +8,4 @@ $baseDir = dirname($vendorDir);
 return array(
     'Src\\' => array($baseDir . '/src'),
     'Opis\\Database\\' => array($vendorDir . '/opis/database/src'),
-    'App\\Models\\' => array($baseDir . '/app/models'),
-    'App\\Libraries\\' => array($baseDir . '/app/libraries'),
-    'App\\Core\\' => array($baseDir . '/app/core'),
-    'App\\Controllers\\' => array($baseDir . '/app/controllers'),
 );

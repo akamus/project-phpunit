@@ -1,6 +1,5 @@
 <?php
-
-namespace App\Models;
+namespace Src;
 use DOMDocument;
 use DOMXPath;
 

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d8a10f81332775c6e08bbefb7b0c82d0",
+    "content-hash": "558f1f2b0dc0094a12d81a536b885922",
     "packages": [
         {
             "name": "opis/database",

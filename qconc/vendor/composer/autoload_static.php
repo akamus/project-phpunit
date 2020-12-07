@@ -15,13 +15,6 @@ class ComposerStaticInit1dd75894d3ffa9ce7587056a99359ccc
         array (
             'Opis\\Database\\' => 14,
         ),
-        'A' => 
-        array (
-            'App\\Models\\' => 11,
-            'App\\Libraries\\' => 14,
-            'App\\Core\\' => 9,
-            'App\\Controllers\\' => 16,
-        ),
     );
 
     public static $prefixDirsPsr4 = array (
@@ -32,22 +25,6 @@ class ComposerStaticInit1dd75894d3ffa9ce7587056a99359ccc
         'Opis\\Database\\' => 
         array (
             0 => __DIR__ . '/..' . '/opis/database/src',
-        ),
-        'App\\Models\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/app/models',
-        ),
-        'App\\Libraries\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/app/libraries',
-        ),
-        'App\\Core\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/app/core',
-        ),
-        'App\\Controllers\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/app/controllers',
         ),
     );
 

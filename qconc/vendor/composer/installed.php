@@ -6,19 +6,19 @@
     'aliases' => 
     array (
     ),
-    'reference' => '1ea5f446c20e73fe2b11cd0c7400a493be00ff5d',
-    'name' => 'aureo.ramos/ipremci3',
+    'reference' => 'b38b5d40e3837dea2a2e74a4f73a8b538ef6c5e3',
+    'name' => 'aureo.ramos/qconc',
   ),
   'versions' => 
   array (
-    'aureo.ramos/ipremci3' => 
+    'aureo.ramos/qconc' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => '1ea5f446c20e73fe2b11cd0c7400a493be00ff5d',
+      'reference' => 'b38b5d40e3837dea2a2e74a4f73a8b538ef6c5e3',
     ),
     'opis/database' => 
     array (

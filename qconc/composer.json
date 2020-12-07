@@ -1,0 +1,15 @@
+{
+    "name": "aureo.ramos/qconc",
+    "require": {
+        "opis/database": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+              "Src\\": "src/"
+        }
+    },
+    "scripts": {
+        "server": "php -S localhost:8000 index.php",
+        "test": "./vendor/bin/phpunit tests --colors"
+    }
+}
